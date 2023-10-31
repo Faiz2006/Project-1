@@ -1,0 +1,30 @@
+*{
+    padding: 10px;
+}
+
+a{
+    color: black;
+    padding: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+a:hover{
+    color: lightblue;
+}
+
+.F{
+    border: 0.5px solid;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+}
+
+hr{
+    border: 1px solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 1px;
+}
